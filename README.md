@@ -1,2 +1,2 @@
 # Competitive-programming
-Here I have uploaded my solution to some leetcode coding problems
+Here I am uploading my solution to some leetcode coding problems
